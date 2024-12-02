@@ -1,0 +1,2 @@
+# Python_OCR_Research
+PythonのOCRライブラリの利用方法調査/制度確認
